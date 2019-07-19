@@ -1,2 +1,0 @@
-# GettingCleaningData
-Coursera Project
